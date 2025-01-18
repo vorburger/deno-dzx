@@ -28,7 +28,7 @@
 ## Example
 
 > **Warning** This project is in a very experimental state. Many things are
-> subject to change.
+> subject to change. https://github.com/dsherret/dax may be more actively maintained.
 
 ```typescript
 import {
